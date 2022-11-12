@@ -11,7 +11,7 @@
     "express",
     "chat"
   ],
-  "author": "Qiyue Sheng",
+  "author": "afraz tanvir",
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^3.3.7",
